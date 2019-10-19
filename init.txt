@@ -3,3 +3,4 @@ initS
 initi
 add
 newline1あああ
+newline2

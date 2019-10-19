@@ -1,3 +1,4 @@
 add
 newline1あああ
+newline2
 
