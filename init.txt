@@ -2,3 +2,4 @@ initad
 initS
 initi
 add
+newline1あああ
