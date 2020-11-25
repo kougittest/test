@@ -5,3 +5,4 @@ add
 newline1あああ
 newline2
 newline3
+aaaa
