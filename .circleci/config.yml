@@ -35,4 +35,4 @@ workflows:
                 # 好きな ブランチに push された場合のみ deploy ジョブを実行する
                 filters:
                     branches:
-                        only: testorigin
+                        only: master
