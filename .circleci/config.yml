@@ -32,7 +32,7 @@ workflows:
                 requires:
                     # deploy ジョブより先に build ジョブを実行しろ、という命令
                     - build
-                # 好きな ブランチに push された場合のみ deploy ジョブを実行する
+                # 好きな ブランチに push された場合のみ deploy ジョブを実行するlj
                 filters:
                     branches:
                         only: testorigin
