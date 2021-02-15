@@ -6,10 +6,6 @@ jobs:
         docker:
             - image: alpine
         steps:
-            command: |
-            apt update
-            apt install -y git
-
             - checkout
             - run:
                 name: Echo Test
