@@ -6,13 +6,15 @@ jobs:
         docker:
             - image: alpine
         steps:
-            #- checkout
+            command: |
+            apt update
+            apt install -y git
+
+            - checkout
             - run:
                 name: Echo Test
                 command: echo "CircleCI Test"
 
-            apt update
-            apt install -y git
     # deploy ジョブ: EC2 に SSH 接続して、デプロイを実行する
     deploy:
         machine:
