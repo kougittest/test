@@ -18,6 +18,8 @@ jobs:
             - checkout
             # CircleCI に登録した秘密鍵を呼び出す
             - add_ssh_keys:
+                fingerprints:
+                    - 20:cc:80:99:e4:87:2d:34:76:3e:c0:0f:36:cb:dd:de
             # CircleCI に登録した環境変数を使って SSH 環境変数 (HOST_NAME / USER_NAME) として CircleCI に登録しておく、ローカルパス
             - run: ssh ${USER_NAME}@${HOST_NAME} 'cd [G:\xampp\htdocs\web\js\WebContent\git] && git pull'
 
