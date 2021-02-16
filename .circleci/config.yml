@@ -22,7 +22,7 @@ jobs:
                 fingerprints:
                     - "a8:2b:96:f5:b9:65:bf:53:70:02:6d:21:f6:5e:8f:c4"                
             # CircleCI に登録した環境変数を使って SSH
-            - run: ssh ${USER_NAME}@${HOST_NAME} 'cd G:\xampp\htdocs\web\js\WebContent\git\ && git pull'
+            - run: ssh ${USER_NAME}@${HOST_NAME} 'cd G:\xampp\htdocs\web\js\WebContent\git\ && git pull master master'
 
 workflows:
     version: 2
