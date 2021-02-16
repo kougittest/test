@@ -1,3 +1,4 @@
+
 version: 2
 
 jobs:
@@ -10,7 +11,6 @@ jobs:
             - run:
                 name: Echo Test
                 command: echo "CircleCI Test"
-
     # deploy ジョブ: EC2 に SSH 接続して、デプロイを実行する
     deploy:
         machine:
@@ -19,10 +19,8 @@ jobs:
             - checkout
             # CircleCI に登録した秘密鍵を呼び出す
             - add_ssh_keys:
-                fingerprints:
-                    - 20:cc:80:99:e4:87:2d:34:76:3e:c0:0f:36:cb:dd:de
-            # CircleCI に登録した環境変数を使って SSH 環境変数 (HOST_NAME / USER_NAME) として CircleCI に登録しておく、ローカルパス
-            - run: ssh ${USER_NAME}@${HOST_NAME} 'cd [G:\xampp\htdocs\web\js\WebContent\git] && git pull'
+            # CircleCI に登録した環境変数を使って SSH
+            - run: ssh ${USER_NAME}@${HOST_NAME} 'cd G:\xampp\htdocs\web\js\WebContent\git\ && git pull'
 
 workflows:
     version: 2
@@ -35,7 +33,7 @@ workflows:
                 requires:
                     # deploy ジョブより先に build ジョブを実行しろ、という命令
                     - build
-                # 好きな ブランチに push された場合のみ deploy ジョブを実行する
+                # master ブランチに push された場合のみ deploy ジョブを実行する
                 filters:
                     branches:
                         only: master
