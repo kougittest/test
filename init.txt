@@ -4,11 +4,7 @@ initi
 add
 newline1あああ
 newline2
-<<<<<<< HEAD
 newline3
 2020-11-26 (Thu) 02:47:38
 2020-11-26 (Thu) 02:56:43 Itou
 ctrl s 無し
-=======
-newline2
->>>>>>> 19bd86ce8ce59fbbd197112dd98a606f70111576
