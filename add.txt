@@ -23,3 +23,4 @@ sftp追加テスト
 bbbbbbbbbb
 master
 origin
+origine>master push
