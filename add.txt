@@ -24,3 +24,4 @@ bbbbbbbbbb
 master
 origin
 origine>master push
+ORIGIN 作業中
