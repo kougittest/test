@@ -14,3 +14,14 @@ ctrl s 無し
 sftp追加テスト
 2020810 atui
 	tuika
+	22/04/14
+＊＊＊＊＊＊＊＊＊＊＊＊間違え部分＊＊＊＊＊＊＊＊＊＊＊
+aaaaaa
+sftp追加テスト
+2020810 atui
+	tuika
+bbbbbbbbbb
+master
+origin
+origine>master push
+ORIGIN 作業中
