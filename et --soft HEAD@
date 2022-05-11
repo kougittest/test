@@ -1,0 +1,149 @@
+[33maac93dd[m[33m ([m[1;36mHEAD -> [m[1;32morigin[m[33m)[m HEAD@{0}: reset: moving to HEAD~
+[33mac11678[m HEAD@{1}: reset: moving to HEAD~
+[33md80ee09[m HEAD@{2}: reset: moving to HEAD~
+[33m20cdac9[m HEAD@{3}: reset: moving to 20cdac9c41ae179086b0e419da2c0ad0c6df083c
+[33m2e16678[m HEAD@{4}: pull --tags master origin: Merge made by the 'recursive' strategy.
+[33m79ac1fb[m HEAD@{5}: commit: SOFT2
+[33m20cdac9[m HEAD@{6}: reset: moving to 20cdac9c41ae179086b0e419da2c0ad0c6df083c
+[33m81175d9[m[33m ([m[1;31morigin/origin[m[33m, [m[1;31mmaster/origin[m[33m)[m HEAD@{7}: pull --tags master origin: Merge made by the 'recursive' strategy.
+[33m6fb6198[m HEAD@{8}: commit: SOFT
+[33m20cdac9[m HEAD@{9}: reset: moving to 20cdac9c41ae179086b0e419da2c0ad0c6df083c
+[33m20cdac9[m HEAD@{10}: reset: moving to 20cdac9c41ae179086b0e419da2c0ad0c6df083c
+[33m7519b48[m HEAD@{11}: pull --tags master origin: Merge made by the 'recursive' strategy.
+[33md958704[m HEAD@{12}: commit: SOFT
+[33m20cdac9[m HEAD@{13}: reset: moving to 20cdac9c41ae179086b0e419da2c0ad0c6df083c
+[33med7ef89[m HEAD@{14}: pull --tags master origin: Merge made by the 'recursive' strategy.
+[33m04ed406[m HEAD@{15}: commit: soft add
+[33m20cdac9[m HEAD@{16}: reset: moving to 20cdac9c41ae179086b0e419da2c0ad0c6df083c
+[33m435e81e[m HEAD@{17}: pull --tags master origin: Merge made by the 'recursive' strategy.
+[33m25575ac[m HEAD@{18}: commit: soft
+[33m20cdac9[m HEAD@{19}: reset: moving to 20cdac9c41ae179086b0e419da2c0ad0c6df083c
+[33m273b755[m HEAD@{20}: pull --tags master origin: Merge made by the 'recursive' strategy.
+[33med265a3[m HEAD@{21}: commit: softreset
+[33m804ce63[m HEAD@{22}: reset: moving to 804ce63481b5cc49ec287ce95c9c1ad8057732c1
+[33m8338601[m HEAD@{23}: reset: moving to 8338601a2aa8795a45ec62cfc994c2bce3ea2f26
+[33m41a5d21[m HEAD@{24}: pull --tags master origin: Merge made by the 'recursive' strategy.
+[33me5e226a[m HEAD@{25}: commit: reset soft
+[33m3616fb8[m HEAD@{26}: reset: moving to 3616fb83ef52f1baeed24cbc9fd4c8c74c64fa4d
+[33m3616fb8[m HEAD@{27}: reset: moving to 3616fb83ef52f1baeed24cbc9fd4c8c74c64fa4d
+[33m61bc7c0[m HEAD@{28}: reset: moving to 61bc7c06c3ba099b1ee686072c98676f6a851776
+[33ma239705[m HEAD@{29}: rebase: updating HEAD
+[33ma239705[m HEAD@{30}: rebase: updating HEAD
+[33ma239705[m HEAD@{31}: checkout: moving from 99249de84bc7235b203846aac49a4c455da80e49 to origin
+[33m99249de[m HEAD@{32}: rebase: sono2 // part02
+[33m83f1a1b[m HEAD@{33}: rebase: sono2 8/10 ブランチを変更しコミットしPUSH
+[33m61bc7c0[m HEAD@{34}: checkout: moving from origin to 61bc7c06c3ba099b1ee686072c98676f6a851776
+[33ma239705[m HEAD@{35}: checkout: moving from 1fe63acee10b33610cf37ba75b9372d7448d5bdc to origin
+[33m1fe63ac[m HEAD@{36}: rebase: line3 add modified
+[33m236bb67[m HEAD@{37}: rebase: 作業newline2　のコミット
+[33m61bc7c0[m HEAD@{38}: rebase: checkout 61bc7c06c3ba099b1ee686072c98676f6a851776
+[33ma239705[m HEAD@{39}: pull --tags master origin: Merge made by the 'recursive' strategy.
+[33m61bc7c0[m HEAD@{40}: commit: softreset
+[33m18f6f27[m HEAD@{41}: reset: moving to 094a4682e972d156f8e1651d2bf90d29a8af0c09^
+[33mdacca83[m HEAD@{42}: commit (merge): Merge branch 'origin' of https://github.com/kougittest/test into origin
+[33m09fbb09[m HEAD@{43}: commit: rebase
+[33mb739782[m[33m ([m[1;31morigin/sono2[m[33m, [m[1;31mkougittest/sono2[m[33m)[m HEAD@{44}: reset: moving to b739782ae8d91c52130b7f6d02c6a04a8b6c167a
+[33md80ee09[m HEAD@{45}: reset: moving to 20cdac9c41ae179086b0e419da2c0ad0c6df083c^
+[33m8784443[m HEAD@{46}: rebase finished: returning to refs/heads/origin
+[33m8784443[m HEAD@{47}: rebase: MASTER COMI 進行しました
+[33m9b6ae0b[m HEAD@{48}: rebase: ORIGIN 作業中
+[33m1330fbe[m[33m ([m[1;31mkougittest/origin[m[33m)[m HEAD@{49}: rebase: checkout origin/origin
+[33maf06b02[m HEAD@{50}: checkout: moving from master to origin
+[33m1943dc6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mmaster/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{51}: rebase finished: returning to refs/heads/master
+[33m1943dc6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mmaster/master[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{52}: rebase: ORIGIN 作業中
+[33mde2064d[m HEAD@{53}: rebase: checkout master/master
+[33maf06b02[m HEAD@{54}: checkout: moving from master to master
+[33maf06b02[m HEAD@{55}: merge origin: Fast-forward
+[33mde2064d[m HEAD@{56}: checkout: moving from origin to master
+[33maf06b02[m HEAD@{57}: checkout: moving from master to origin
+[33mde2064d[m HEAD@{58}: checkout: moving from origin to master
+[33maf06b02[m HEAD@{59}: commit (merge): Merge branch 'master' of https://github.com/kougittest/test into origin
+[33m85f4633[m HEAD@{60}: commit: ORIGIN 作業中
+[33m1330fbe[m[33m ([m[1;31mkougittest/origin[m[33m)[m HEAD@{61}: checkout: moving from master to origin
+[33mde2064d[m HEAD@{62}: commit: MASTER COMI 進行しました
+[33m1330fbe[m[33m ([m[1;31mkougittest/origin[m[33m)[m HEAD@{63}: pull --tags origin origin: Fast-forward
+[33m6d0a338[m[33m ([m[1;31mkougittest/master[m[33m)[m HEAD@{64}: checkout: moving from origin to master
+[33m1330fbe[m[33m ([m[1;31mkougittest/origin[m[33m)[m HEAD@{65}: commit: origine>master push
+[33m6d0a338[m[33m ([m[1;31mkougittest/master[m[33m)[m HEAD@{66}: pull --tags master master: Fast-forward
+[33m2487be8[m HEAD@{67}: checkout: moving from master to origin
+[33m6d0a338[m[33m ([m[1;31mkougittest/master[m[33m)[m HEAD@{68}: commit (merge): Merge branch 'origin'
+[33mfdaf2e0[m HEAD@{69}: commit: master>origin push
+[33mc801b29[m HEAD@{70}: checkout: moving from origin to master
+[33m2487be8[m HEAD@{71}: checkout: moving from master to origin
+[33mc801b29[m HEAD@{72}: checkout: moving from origin to master
+[33m2487be8[m HEAD@{73}: commit: origin
+[33m1854b0c[m HEAD@{74}: commit (merge): Merge branch 'master' of https://github.com/kougittest/test into origin
+[33m4468059[m HEAD@{75}: commit: aaaaaa
+[33m40ea063[m HEAD@{76}: checkout: moving from master to origin
+[33mc801b29[m HEAD@{77}: commit: MASTER MOD
+[33m40ea063[m HEAD@{78}: pull --tags origin origin: Fast-forward
+[33meeea31a[m HEAD@{79}: checkout: moving from origin to master
+[33m40ea063[m HEAD@{80}: commit: ORIGINE mod
+[33meeea31a[m HEAD@{81}: checkout: moving from master to origin
+[33meeea31a[m HEAD@{82}: checkout: moving from origin to master
+[33meeea31a[m HEAD@{83}: checkout: moving from master to origin
+[33meeea31a[m HEAD@{84}: checkout: moving from origin to master
+[33meeea31a[m HEAD@{85}: merge master/master: Fast-forward
+[33m1094928[m HEAD@{86}: checkout: moving from master to origin
+[33meeea31a[m HEAD@{87}: commit (merge): Merge remote-tracking branch 'master/origin'
+[33m869b76d[m HEAD@{88}: checkout: moving from origin to master
+[33m1094928[m HEAD@{89}: checkout: moving from master to origin
+[33m869b76d[m HEAD@{90}: checkout: moving from origin to master
+[33m1094928[m HEAD@{91}: commit (merge): Merge remote-tracking branch 'origin/master' into origin
+[33m20cdac9[m HEAD@{92}: checkout: moving from master to origin
+[33m869b76d[m HEAD@{93}: commit (merge): Merge remote-tracking branch 'master/origin'
+[33m6b01641[m HEAD@{94}: checkout: moving from origin to master
+[33m20cdac9[m HEAD@{95}: checkout: moving from master to origin
+[33m6b01641[m HEAD@{96}: checkout: moving from origin to master
+[33m20cdac9[m HEAD@{97}: commit: bbbbbbbbbbb
+[33md80ee09[m HEAD@{98}: checkout: moving from master to origin
+[33m6b01641[m HEAD@{99}: commit: aaaa
+[33me1c5a6e[m HEAD@{100}: checkout: moving from origin to master
+[33md80ee09[m HEAD@{101}: checkout: moving from master to origin
+[33me1c5a6e[m HEAD@{102}: checkout: moving from origin to master
+[33md80ee09[m HEAD@{103}: checkout: moving from master to origin
+[33me1c5a6e[m HEAD@{104}: checkout: moving from origin to master
+[33md80ee09[m HEAD@{105}: commit: test競合
+[33mac11678[m HEAD@{106}: checkout: moving from master to origin
+[33me1c5a6e[m HEAD@{107}: checkout: moving from origin to master
+[33mac11678[m HEAD@{108}: checkout: moving from master to origin
+[33me1c5a6e[m HEAD@{109}: commit: test_st_03
+[33m2a3f252[m HEAD@{110}: commit: test_st_02
+[33m0960b62[m HEAD@{111}: commit: test_st_01
+[33me935d41[m HEAD@{112}: commit (amend): 間違え部分在り＿修正３＋４＋５
+[33mec73234[m HEAD@{113}: reset: moving to ec7323420260007f66b5fb480e5e01a61e026f6b
+[33me959e72[m HEAD@{114}: commit (amend): test修正
+[33m2fbf13e[m HEAD@{115}: reset: moving to 2fbf13efda82f1feda9a6f5e4b4b82073150d7fd
+[33mf27aee7[m HEAD@{116}: commit (amend): 間違え部分在り＿修正３＋４
+[33m9181820[m HEAD@{117}: reset: moving to 9181820da562162479ef03935bdd6eaeb3cfef2f
+[33mec73234[m HEAD@{118}: commit (amend): 間違え部分在り＿修正３＋４＋５
+[33m5b362ea[m HEAD@{119}: commit (amend): 間違え部分在り＿修正３＋４＋５
+[33m9181820[m HEAD@{120}: reset: moving to 9181820da562162479ef03935bdd6eaeb3cfef2f
+[33ma97726f[m HEAD@{121}: commit (amend): testコミット名修正＋２
+[33mc497563[m HEAD@{122}: reset: moving to c4975639eede8dc26bb976b7e5a2b04bd53a9ef2
+[33ma0cd012[m HEAD@{123}: pull master master: Merge made by the 'recursive' strategy.
+[33m867b5bc[m HEAD@{124}: commit (amend): 間違え部分在り＿修正３＋４
+[33m9181820[m HEAD@{125}: reset: moving to 9181820da562162479ef03935bdd6eaeb3cfef2f
+[33ma82b30d[m HEAD@{126}: pull master master: Merge made by the 'recursive' strategy.
+[33mc497563[m HEAD@{127}: commit (amend): testコミット名修正
+[33m2fbf13e[m HEAD@{128}: reset: moving to 2fbf13efda82f1feda9a6f5e4b4b82073150d7fd
+[33m9181820[m HEAD@{129}: commit (amend): 間違え部分在り＿修正３＋４
+[33m8cc5578[m HEAD@{130}: reset: moving to 8cc55788ca49ae6f378ff8979f86beb77de8a0e8
+[33m33a75f9[m HEAD@{131}: pull master master: Merge made by the 'recursive' strategy.
+[33m3860fb4[m HEAD@{132}: commit (amend): 追加０１
+[33m8cc5578[m HEAD@{133}: commit (amend): 間違え部分在り＿修正３
+[33m307790d[m HEAD@{134}: reset: moving to 307790df032de85b00decb0dfdeb4d6a6ad26b1a
+[33m6e6ec00[m HEAD@{135}: pull master master: Merge made by the 'recursive' strategy.
+[33m1555a16[m HEAD@{136}: commit (amend): 間違え部分在り_修正０２
+[33m307790d[m HEAD@{137}: reset: moving to 307790df032de85b00decb0dfdeb4d6a6ad26b1a
+[33me023d79[m HEAD@{138}: pull master master: Merge made by the 'recursive' strategy.
+[33mf5541ee[m HEAD@{139}: commit (amend): 間違え部分在り＿コミット名だけ修正
+[33m77afec3[m HEAD@{140}: commit (amend): 間違え部分在り＿コミット名だけ修正
+[33mfdd625b[m HEAD@{141}: reset: moving to fdd625b7298f3e5c3ed246385e2df43a63f4aab4
+[33m903bb5d[m HEAD@{142}: commit (amend): 間違え部分在り＿コミット名だけ修正
+[33m843876d[m HEAD@{143}: commit (amend): 間違え部分在り＿コミット名だけ修正
+[33mfdd625b[m HEAD@{144}: reset: moving to fdd625b7298f3e5c3ed246385e2df43a63f4aab4
+[33mfdd625b[m HEAD@{145}: commit (amend): 間違え部分在り＿コミット名だけ修正
+[33m307790d[m HEAD@{146}: commit: 間違え部分在り
+[33m2fbf13e[m HEAD@{147}: commit: test
+[33m8338601[m HEAD@{148}: commit: TEST

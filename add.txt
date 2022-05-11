@@ -1,7 +1,6 @@
 add
 newline1あああ
 newline2
-<<<<<<< HEAD
 newline3
 sono2_8/10 02
 2020-11-19 (Thu) 12:03:05
@@ -12,8 +11,6 @@ sono2_8/10 02
 2020-11-26 (Thu) 00:59:54
 2020-11-26 (Thu) 02:56:27 Itou
 ctrl s 無し
-=======
 sftp追加テスト
 2020810 atui
 	tuika
->>>>>>> 19bd86ce8ce59fbbd197112dd98a606f70111576
