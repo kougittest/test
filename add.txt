@@ -1,7 +1,27 @@
 add
 newline1あああ
 newline2
+newline3
+sono2_8/10 02
+2020-11-19 (Thu) 12:03:05
+2020-11-19 (Thu) 12:32:25
+2020-11-19 (Thu) 12:40:40
+2020-11-19 (Thu) 13:35:39
+2020-11-19 (Thu) 14:20:16
+2020-11-26 (Thu) 00:59:54
+2020-11-26 (Thu) 02:56:27 Itou
+ctrl s 無し
+sftp追加テスト
+2020810 atui
+	tuika
+	22/04/14
+＊＊＊＊＊＊＊＊＊＊＊＊間違え部分＊＊＊＊＊＊＊＊＊＊＊
+aaaaaa
 sftp追加テスト
 2020810 atui
 	tuika
 bbbbbbbbbb
+master
+origin
+origine>master push
+ORIGIN 作業中
