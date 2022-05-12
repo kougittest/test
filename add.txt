@@ -26,3 +26,4 @@ origin
 origine>master push
 2022/05/08-18:42:16 MASTER COMI 進行しました
 ORIGIN作業中
+originです
