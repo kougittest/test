@@ -1,14 +1,14 @@
-add
-newline1あああ
-newline2
-newline3
-sono2_8/10 02
-2020-11-19 (Thu) 12:03:05
-2020-11-19 (Thu) 12:32:25
-2020-11-19 (Thu) 12:40:40
-2020-11-19 (Thu) 13:35:39
-2020-11-19 (Thu) 14:20:16
-2020-11-26 (Thu) 00:59:54
+add　MASTER追加
+newline1あああ　MASTER追加
+newline2　MASTER追加
+newline3　MASTER追加
+sono2_8/10 02　MASTER追加
+2020-11-19 (Thu) 12:03:05　MASTER追加
+2020-11-19 (Thu) 12:32:25　MASTER追加
+2020-11-19 (Thu) 12:40:40　MASTER追加
+2020-11-19 (Thu) 13:35:39　MASTER追加
+2020-11-19 (Thu) 14:20:16　MASTER追加
+2020-11-26 (Thu) 00:59:54　MASTER追加
 2020-11-26 (Thu) 02:56:27 Itou
 ctrl s 無し
 sftp追加テスト
@@ -27,3 +27,4 @@ origine>master push
 2022/05/08-18:42:16 MASTER COMI 進行しました
 ORIGIN作業中
 originです
+新しい編集
