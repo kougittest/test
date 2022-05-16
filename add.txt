@@ -26,5 +26,9 @@ origin
 origine>master push
 2022/05/08-18:42:16 MASTER COMI 進行しました
 ORIGIN作業中
+<<<<<<< HEAD
 originです
 新しい編集
+=======
+originです
+>>>>>>> 3ce52b062e985b8e6d6638daa6757980964c27a6
