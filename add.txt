@@ -29,3 +29,4 @@ ORIGIN作業中
 originです
 ここに追加　追加した　また追加
 新しい編集
+MASTER 作業 originに反映させない
