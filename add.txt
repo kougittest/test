@@ -36,3 +36,5 @@ MASTER 作業 originに反映させない
 master2022/05/22-11:47:33
 origin2022/05/22-11:48:52
 リセットに続き追加行
+
+reset after addtxtmod
