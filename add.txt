@@ -35,8 +35,6 @@ originです
 オリジンで変更を確認
 masterで編集計3ファイル
 
-<<<<<<< HEAD
 brunch write to master
-=======
 brunch orijin to write
->>>>>>> aa0f76709811ccf7ca8aab2a59e565dc585ed1b6
+2rows margi
