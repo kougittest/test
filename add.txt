@@ -37,4 +37,5 @@ masterで編集計3ファイル
 
 brunch write to master
 brunch orijin to write
-2rows margi
+2rows margi 
+origin pull to master
