@@ -36,3 +36,5 @@ originです
 masterで編集計3ファイル
 
 brunch orijin to write
+brunch write to master
+2rows marged
